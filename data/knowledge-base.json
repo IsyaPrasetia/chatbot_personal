@@ -1,0 +1,42 @@
+{
+  "nama": "Budi Santoso",
+  "peran": "Full-stack Developer",
+  "lokasi": "Jakarta, Indonesia",
+  "kontak": {
+    "email": "budi@example.com",
+    "github": "https://github.com/budi"
+  },
+  "faq": [
+    {
+      "id": "faq-001",
+      "pertanyaan": "Siapa kamu?",
+      "jawaban": "Saya asisten digital milik Budi Santoso, seorang full-stack developer dari Jakarta.",
+      "kataKunci": ["siapa", "nama", "perkenalan", "budi"]
+    },
+    {
+      "id": "faq-002",
+      "pertanyaan": "Apa keahlian utamamu?",
+      "jawaban": "Keahlian utama: JavaScript/TypeScript, Node.js, React, PostgreSQL, dan deployment Docker.",
+      "kataKunci": ["keahlian", "skill", "kemampuan", "teknologi", "stack"]
+    },
+    {
+      "id": "faq-003",
+      "pertanyaan": "Bagaimana cara menghubungi?",
+      "jawaban": "Email: budi@example.com atau lewat GitHub: https://github.com/budi",
+      "kataKunci": ["kontak", "hubungi", "email", "reach", "hubung"]
+    },
+    {
+      "id": "faq-004",
+      "pertanyaan": "Bisa terima proyek freelance?",
+      "jawaban": "Ya, untuk proyek web app, API, dan otomasi. Silakan email dengan deskripsi kebutuhan.",
+      "kataKunci": ["freelance", "proyek", "project", "kerja", "jasa", "hire"]
+    },
+    {
+      "id": "faq-005",
+      "pertanyaan": "Jam kerja?",
+      "jawaban": "Senin–Jumat, 09.00–17.00 WIB. Respons email rata-rata di bawah 24 jam.",
+      "kataKunci": ["jam", "waktu", "kerja", "operasional", "respons"]
+    }
+  ],
+  "fallback": "Maaf, saya belum paham. Coba tanya tentang: perkenalan, keahlian, kontak, freelance, atau jam kerja."
+}

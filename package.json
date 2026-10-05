@@ -1,0 +1,13 @@
+{
+  "name": "chatbot-personal",
+  "version": "1.0.0",
+  "description": "Chatbot mini dengan basis pengetahuan dari data pribadi (FAQ engine)",
+  "main": "src/index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --test"
+  },
+  "engines": { "node": ">=18" },
+  "license": "MIT"
+}
